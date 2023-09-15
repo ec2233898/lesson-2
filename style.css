@@ -1,0 +1,22 @@
+/*This is main stylesheet*::after
+/*colour scheme*::after
+/*light purple #A3A3FF
+/*purple #8060EB
+/*dark purple #8E2BFF
+/*dark pink #B732F0
+/*sky #A7ECF0
+/*white #ffffff
+/*black #000000*/
+
+h2{
+  color: #000000;
+}
+h1{
+  color: #000000;
+}
+.bg-light-purple{
+background-color: #A3A3FF;
+}
+.sky{
+  background-color: #A7ECF0;
+}
