@@ -20,3 +20,28 @@ background-color: #A3A3FF;
 .sky{
   background-color: #A7ECF0;
 }
+nav{
+  background-color: #8E2BFF;
+  border: 1px solid #000000;
+  color: #ffffff;
+  display: block;
+  overflow: hidden;
+  width: 100%;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li a{
+  color: #ffffff;
+  display: block;
+  line-height: 4px;
+  text-decoration: none;
+  padding: 20px;
+}
+nav ul li:hover{
+  background-color: #000000;
+}
+nav ul li:hover a{
+  color: #A7ECF0;
+}
