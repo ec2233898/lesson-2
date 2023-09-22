@@ -5,6 +5,7 @@
 /*dark purple #8E2BFF
 /*dark pink #B732F0
 /*sky #A7ECF0
+/*grey #999999
 /*white #ffffff
 /*black #000000*/
 
@@ -44,4 +45,10 @@ nav ul li:hover{
 }
 nav ul li:hover a{
   color: #A7ECF0;
+}
+footer{
+  background-color: #999999;
+  color: #ffffff;
+  text-align: center;
+  padding: 3px;
 }
