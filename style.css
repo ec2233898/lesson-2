@@ -17,9 +17,11 @@ h1{
 }
 .bg-light-purple{
 background-color: #A3A3FF;
+  padding: 50px;
 }
 .sky{
   background-color: #A7ECF0;
+    padding: 50px;
 }
 nav{
   background-color: #8E2BFF;
@@ -28,6 +30,7 @@ nav{
   display: block;
   overflow: hidden;
   width: 100%;
+  position: fixed;
 }
 nav ul li{
     display: inline-block;
