@@ -5,7 +5,9 @@
 /*dark blue #020024 rgba(2,0,36,1)
 /*white #ffffff rgb(255, 255, 255)
 /*black #000000 rgb(0, 0, 0)*/
-
+h1,h2{
+  font-family: 'Satisfy', cursive;
+}
 h2{
   color: #fafafa;
 }
@@ -23,6 +25,7 @@ background: rgb(0,212,255);
 background: linear-gradient(180deg, rgba(0,212,255,1) 0%, rgba(23,121,9,1) 63%, rgba(2,0,36,1) 100%);
 }
 nav{
+  font-family: 'Lobster', sans-serif;
   background-color: #020024;
   border: 1px solid #ffffff;
   color: #ffffff;
